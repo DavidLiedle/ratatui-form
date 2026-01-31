@@ -2,6 +2,8 @@
 
 A Rust TUI form builder crate built on [Ratatui](https://github.com/ratatui/ratatui). Create terminal forms with a fluent builder API, pre-built field types, and composite blocks for common patterns like addresses and contact info.
 
+> **Note:** This crate was originally developed under the name `tform`, but was renamed to `ratatui-form` to avoid confusion with the unrelated [tform](https://crates.io/crates/tform) crate. If you were using the old name, please update your dependencies to `ratatui-form`.
+
 ## Features
 
 - **Fluent Builder API** - Chain methods to build forms quickly
@@ -18,7 +20,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-ratatui-form = "0.1.0"
+ratatui-form = "0.1.1"
 ```
 
 ## Quick Start

@@ -1,10 +1,10 @@
 [package]
 name = "ratatui-form"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "A Rust TUI form builder crate built on Ratatui"
-repository = "https://github.com/DavidLiedle/tform"
+repository = "https://github.com/DavidLiedle/ratatui-form"
 documentation = "https://docs.rs/ratatui-form"
 keywords = ["tui", "terminal", "form", "ratatui", "cli"]
 categories = ["command-line-interface"]
